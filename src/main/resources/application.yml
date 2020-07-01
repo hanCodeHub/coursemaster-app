@@ -1,0 +1,43 @@
+spring:
+
+    #    -------- FOR POSTGRESQL USE ONLY ----------
+#    hikari:
+#        connection-timeout: 20000  # default connection pool
+#        maximum-pool-size: 30  # number of available connections at any given time
+#    datasource:
+#        url: jdbc:postgresql://localhost:5432/demodb  # Postgres
+#        username: postgres  # user with root access
+#        password: mypassword
+#        initialization-mode: always  # to enable DB initialization for external databases
+    datasource:
+        username: user
+        password:
+        url: jdbc:h2:mem:testdb
+        driver-class-name: org.h2.Driver
+
+    jpa:
+        hibernate:
+            # create-drop good for testing, change to validate for production
+            ddl-auto: create
+            naming:
+                physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+        properties:
+            hibernate:
+                # The SQL dialect makes Hibernate generate better SQL for the chosen database
+                dialect: org.hibernate.dialect.H2Dialect
+        show-sql: true
+    h2:
+        console: # get H2 JDBC URL from Run Console
+            enabled: true
+
+
+    security:
+        oauth2:
+            client:
+                registration:
+                    github:
+                        clientId: 89a386abb1d8be9c569d
+                        clientSecret: 5e6d10d500be055505f7cb609e2abe939bd55102
+                    google:
+                        client-id: 756008528886-9egsvls9oq9mrvffrcrvo40g2ptt7fql.apps.googleusercontent.com
+                        client-secret: XPsDtt_HPEGoyYYWdWwF-YvD

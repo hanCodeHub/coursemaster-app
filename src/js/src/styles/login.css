@@ -1,0 +1,47 @@
+#login-section #login-title {
+    margin: 5em auto;
+    color: #333;
+}
+
+#login-section #login-card {
+    margin: auto;
+    width: 45em;
+    height: 39em;
+    background-color: #F7F7F7;
+    text-align: center;
+    box-shadow: 0px 0px 10px -1px grey;
+}
+
+#login-section #logo-container {
+    display: flex;
+    margin-top: 2em;
+    margin-bottom: 6em;
+    justify-content: center;
+    height: 13em;
+    overflow: hidden
+}
+
+#login-section #logo-image {
+    height: 20em;
+    margin-top: -3em;
+}
+
+#login-section .login-btn {
+    margin: 1em 0;
+    width: 20em;
+    height: 3.2em;
+}
+
+#login-section #github-btn {
+    background-color: #3c3d40;
+    border-color: #3c3d40;
+    color: #fff;
+}
+
+#login-section .btn-icon {
+    font-size: 1.6em;
+}
+
+#login-section .btn-text {
+    font-size: 1.2em;
+}

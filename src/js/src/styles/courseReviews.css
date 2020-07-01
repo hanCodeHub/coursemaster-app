@@ -1,0 +1,36 @@
+.review-card {
+    box-shadow: 2px 3px 11px -6px grey;
+    margin: 1.2em .5em;
+}
+
+/* bottom divider */
+.ant-divider.ant-divider-horizontal.card-divider {
+    margin-bottom: 2em;
+}
+
+/* extra text on a review card */
+.review-card > .ant-card-head > .ant-card-head-wrapper > .ant-card-extra {
+    font-size: 1.3em;
+}
+
+/* bottom row on a review card */
+.review-card .ant-row.review-bottom-row {
+    margin-top: -.9em;
+}
+
+/* empty icon renders when no reviews */
+#empty-reviews {
+    margin-top: 3em;
+}
+
+/* edit/delete icons */
+span.anticon.review-card-icon {
+    position: relative;
+    top: 2px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+span.anticon.anticon-edit.icon-edit {
+    margin-right: 1em;
+}

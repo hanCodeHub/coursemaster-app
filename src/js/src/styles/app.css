@@ -1,0 +1,72 @@
+/* container for application content (everything except nav) */
+#app-body {
+    position: absolute;
+    left: 15rem;
+    right: 0;
+}
+
+/* all headers */
+h1.ant-typography,
+h2.ant-typography,
+h3.ant-typography {
+    font-weight: 300;
+}
+
+/* title of each main pages */
+#app-body h1.ant-typography.page-title {
+    text-align: center;
+    margin-top: 1em;
+}
+
+/* title of subpages */
+#app-body h1.ant-typography.page-title.title-left {
+    text-align: left;
+}
+
+/* cards */
+.ant-card-head-title {
+    font-size: 1.4em;   
+}
+
+/* basic tags */
+#course-tabs-section .ant-tabs-tab {
+    margin-top: 1em;
+    font-size: 1.4em;
+}
+
+/* modal title */
+div#rcDialogTitle0 {
+    font-size: 1.6em;
+}
+
+/* custom jumbotron */
+.jumbotron {
+    position: relative;
+    height: 60vh;
+}
+
+.jumbotron::after {
+    background-image: url("../images/bu_image.jpg");
+    background-position: center center;
+    background-size: cover;
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.jumbotron .logo {
+    width: 100%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-color: rgba(255,255,255,.7);
+    background-image: url("../images/CourseMaster-logo-new.png");
+    height: 200px;
+    background-position: center center;
+    background-size: contain;
+    position: relative;
+    top: calc(50% - 100px);
+}

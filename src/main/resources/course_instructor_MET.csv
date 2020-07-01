@@ -1,0 +1,496 @@
+College,Department,CourseNumber,Type,Instructor
+MET,AD,510,IN_PERSON,David Ritt
+MET,AD,510,ONLINE,David Ritt
+MET,AD,571,IN_PERSON,David Ritt
+MET,AD,571,IN_PERSON,Staff
+MET,AD,571,IN_PERSON,Raef K. Youssef
+MET,AD,571,ONLINE,Roman Rabinovich
+MET,AD,600,IN_PERSON,Robert Billington
+MET,AD,603,IN_PERSON,Samuel Mendlinger
+MET,AD,605,IN_PERSON,Steven Cashton
+MET,AD,605,IN_PERSON,John Maleyeff
+MET,AD,605,IN_PERSON,Staff
+MET,AD,605,ONLINE,Canan Gunes Corlu
+MET,AD,610,IN_PERSON,Mark Carroll
+MET,AD,610,ONLINE,Mark Carroll
+MET,AD,612,ONLINE,Staff
+MET,AD,613,ONLINE,Donald Byrne
+MET,AD,614,ONLINE,David Weidman
+MET,AD,615,IN_PERSON,Staff
+MET,AD,616,IN_PERSON,Ravi Doddavaram
+MET,AD,616,IN_PERSON,David Ritt
+MET,AD,616,ONLINE,Ravi Doddavaram
+MET,AD,617,IN_PERSON,David L. Rainey
+MET,AD,617,ONLINE,David L. Rainey
+MET,AD,630,IN_PERSON,Alla Barskaya
+MET,AD,630,IN_PERSON,Gerard Keegan
+MET,AD,630,IN_PERSON,William McGue
+MET,AD,630,IN_PERSON,Yotam Mendlinger
+MET,AD,630,IN_PERSON,Staff
+MET,AD,630,ONLINE,Alla Barskaya
+MET,AD,632,IN_PERSON,Alexander Becker
+MET,AD,632,IN_PERSON,William McGue
+MET,AD,632,IN_PERSON,Yotam Mendlinger
+MET,AD,632,IN_PERSON,Staff
+MET,AD,632,ONLINE,Ira Cohen
+MET,AD,642,IN_PERSON,Michael Cipriano
+MET,AD,642,IN_PERSON,Virginia A. Greiman
+MET,AD,642,IN_PERSON,Vijay Kanabar
+MET,AD,642,IN_PERSON,Gerard Keegan
+MET,AD,642,IN_PERSON,Thomas Lechler
+MET,AD,642,IN_PERSON,Richard Maltzman
+MET,AD,642,IN_PERSON,Staff
+MET,AD,642,ONLINE,Richard Maltzman
+MET,AD,643,IN_PERSON,Thomas Lechler
+MET,AD,643,IN_PERSON,Stephen A. Leybourne
+MET,AD,643,IN_PERSON,Staff
+MET,AD,643,ONLINE,Stephen A. Leybourne
+MET,AD,644,IN_PERSON,Carl Belack
+MET,AD,644,IN_PERSON,Anne Kelley
+MET,AD,644,ONLINE,Virginia A. Greiman
+MET,AD,646,IN_PERSON,Vijay Kanabar
+MET,AD,646,IN_PERSON,Richard Maltzman
+MET,AD,647,ONLINE,Virginia A. Greiman
+MET,AD,648,IN_PERSON,Kim Appeltans
+MET,AD,648,IN_PERSON,Jason Shapiro
+MET,AD,648,ONLINE,Jason Shapiro
+MET,AD,649,IN_PERSON,James Hannon
+MET,AD,649,ONLINE,James Hannon
+MET,AD,649,ONLINE,Vijay Kanabar
+MET,AD,654,IN_PERSON,Gregory Page
+MET,AD,654,IN_PERSON,Raef K. Youssef
+MET,AD,654,ONLINE,Gregory Page
+MET,AD,655,IN_PERSON,Marcus Goncalves
+MET,AD,655,ONLINE,Marcus Goncalves
+MET,AD,667,IN_PERSON,Tareq Rahman
+MET,AD,678,IN_PERSON,Kevin Handly
+MET,AD,678,IN_PERSON,Staff
+MET,AD,678,IN_PERSON,James Stodder
+MET,AD,678,IN_PERSON,Fei Tsum
+MET,AD,678,ONLINE,Irena Vodenska
+MET,AD,680,IN_PERSON,Anthony Ganci
+MET,AD,680,IN_PERSON,Canan Gunes Corlu
+MET,AD,680,IN_PERSON,Staff
+MET,AD,680,ONLINE,David L. Rainey
+MET,AD,685,IN_PERSON,Alexander Becker
+MET,AD,685,IN_PERSON,Ivan F. Julio
+MET,AD,685,IN_PERSON,Staff
+MET,AD,685,IN_PERSON,Miguel Villanueva
+MET,AD,685,ONLINE,Ivan F. Julio
+MET,AD,688,IN_PERSON,Ravi Doddavaram
+MET,AD,688,IN_PERSON,Prof. Harris
+MET,AD,688,ONLINE,Ravi Doddavaram
+MET,AD,690,IN_PERSON,David L. Rainey
+MET,AD,690,ONLINE,David L. Rainey
+MET,AD,699,IN_PERSON,Gregory Page
+MET,AD,699,ONLINE,Gregory Page
+MET,AD,709,IN_PERSON,John D. Sullivan
+MET,AD,709,IN_PERSON,Martha Zafiropoulos
+MET,AD,709,ONLINE,Martha Zafiropoulos
+MET,AD,712,IN_PERSON,Nawal Ahmed
+MET,AD,712,IN_PERSON,Seyed Noorian
+MET,AD,712,ONLINE,Prof. Iman
+MET,AD,713,IN_PERSON,Howard Holmes
+MET,AD,713,IN_PERSON,Irena Vodenska
+MET,AD,713,ONLINE,Irena Vodenska
+MET,AD,714,IN_PERSON,Staff
+MET,AD,714,IN_PERSON,John D. Sullivan
+MET,AD,714,ONLINE,John D. Sullivan
+MET,AD,715,IN_PERSON,Staff
+MET,AD,715,IN_PERSON,Raef K. Youssef
+MET,AD,715,IN_PERSON,Vladimir Zlatev
+MET,AD,715,ONLINE,Vladimir Zlatev
+MET,AD,717,IN_PERSON,Alexander Becker
+MET,AD,717,IN_PERSON,San Chee
+MET,AD,717,IN_PERSON,Ivan F. Julio
+MET,AD,717,ONLINE,Alexander Becker
+MET,AD,719,IN_PERSON,San Chee
+MET,AD,719,IN_PERSON,Howard Holmes
+MET,AD,719,ONLINE,San Chee
+MET,AD,725,IN_PERSON,Vivek Marya
+MET,AD,731,IN_PERSON,Khaled Barazi
+MET,AD,731,IN_PERSON,San Chee
+MET,AD,731,IN_PERSON,Matthew Englander
+MET,AD,731,IN_PERSON,Yotam Mendlinger
+MET,AD,731,IN_PERSON,Staff
+MET,AD,731,ONLINE,Khaled Barazi
+MET,AD,733,IN_PERSON,Samuel Mendlinger
+MET,AD,734,IN_PERSON,John Maleyeff
+MET,AD,737,IN_PERSON,Jennifer Lee
+MET,AD,737,IN_PERSON,Prof. Novicelli
+MET,AD,737,ONLINE,Jennifer Lee
+MET,AD,741,IN_PERSON,Kathleen Park
+MET,AD,741,IN_PERSON,Barry Unger
+MET,AD,741,ONLINE,Kathleen Park
+MET,AD,746,IN_PERSON,Staff
+MET,AD,760,IN_PERSON,Mustafa Cokol
+MET,AD,760,ONLINE,Vladimir Zlatev
+MET,AD,763,IN_PERSON,James Stodder
+MET,AD,763,ONLINE,James Stodder
+MET,AD,782,IN_PERSON,Richard Maltzman
+MET,AD,804,IN_PERSON,Samantha Berreondo
+MET,AD,855,HYBRID,Stephen A. Leybourne
+MET,AD,856,IN_PERSON,Burky Chiang
+MET,AD,856,IN_PERSON,Marcus Goncalves
+MET,AD,856,IN_PERSON,Kathleen Park
+MET,AD,856,ONLINE,Marcus Goncalves
+MET,AH,111,IN_PERSON,Milda Richardson
+MET,AH,216,IN_PERSON,Steve Haines
+MET,AH,315,IN_PERSON,Rose Austin
+MET,AH,370,IN_PERSON,Milda Richardson
+MET,AH,372,IN_PERSON,Blair Hollis
+MET,AN,101,IN_PERSON,Laurie Laporte
+MET,AN,102,IN_PERSON,Mentor Mustafa
+MET,AR,550,IN_PERSON,Michael Ibrahim
+MET,AR,550,ONLINE,Michael Ibrahim
+MET,AR,690,IN_PERSON,Douglas DeNatale
+MET,AR,690,IN_PERSON,Blair Hollis
+MET,AR,711,IN_PERSON,Mary Doorley-Simboski
+MET,AR,720,IN_PERSON,Nicholas Peterson
+MET,AR,722,IN_PERSON,Staff
+MET,AR,730,IN_PERSON,Jeff Terrey
+MET,AR,740,IN_PERSON,Staff
+MET,AR,750,IN_PERSON,David Orlinoff
+MET,AR,750,ONLINE,Amanda Hartigan
+MET,AR,751,IN_PERSON,Wendy Swart Grossman
+MET,AR,752,IN_PERSON,Melissa Caolo
+MET,AR,753,IN_PERSON,Susan Ley
+MET,AR,754,IN_PERSON,Steven Schnepp
+MET,AR,766,IN_PERSON,Jason Weeks
+MET,AR,778,IN_PERSON,Michele Beasley
+MET,AR,781,IN_PERSON,Janet Bailey
+MET,AR,781,IN_PERSON,Tomasz Kierul
+MET,AR,802,IN_PERSON,Douglas DeNatale
+MET,AR,802,IN_PERSON,Ty Furman
+MET,AR,803,IN_PERSON,Douglas DeNatale
+MET,AR,803,IN_PERSON,Jeffrey Furman
+MET,AT,602,IN_PERSON,Glen Patashnick
+MET,AT,721,IN_PERSON,Lois Keller Horwitz
+MET,AT,721,IN_PERSON,Glen Patashnick
+MET,AT,722,IN_PERSON,Paul Creegan
+MET,AT,732,IN_PERSON,Hal Tepfer
+MET,AT,741,IN_PERSON,Glen Patashnick
+MET,AT,741,IN_PERSON,Hal Tepfer
+MET,AT,751,IN_PERSON,Lois Keller Horwitz
+MET,AT,752,IN_PERSON,Susan Silverman
+MET,AT,762,IN_PERSON,Yifei Wang
+MET,AT,782,IN_PERSON,Hal Tepfer
+MET,AT,982,IN_PERSON,Hal Tepfer
+MET,BI,105,IN_PERSON,Evan Kristiansen
+MET,BI,105,IN_PERSON,Emily Taylor
+MET,BI,107,IN_PERSON,Kari Lavalli
+MET,BI,107,IN_PERSON,Kathryn Spilios
+MET,BI,203,IN_PERSON,John Tullai
+MET,BI,211,IN_PERSON,Angela Seliga
+MET,BI,211,IN_PERSON,Andrey Vyshedskiy
+MET,BI,407,IN_PERSON,Frederick Wasserman
+MET,BI,491,IN_PERSON,Frederick Wasserman
+MET,BI,492,IN_PERSON,Staff
+MET,BI,566,IN_PERSON,Andrey Vyshedskiy
+MET,CH,101,IN_PERSON,Binyomin Abrams
+MET,CH,101,IN_PERSON,Natalya Bassina
+MET,CH,101,IN_PERSON,Alexander Golger
+MET,CH,102,IN_PERSON,Alexander Golger
+MET,CH,102,IN_PERSON,Thomas Keyes
+MET,CH,171,IN_PERSON,Blair Szymczyna
+MET,CH,203,IN_PERSON,Rebecca Loy
+MET,CH,203,IN_PERSON,Staff
+MET,CH,351,IN_PERSON,John Straub
+MET,CH,373,IN_PERSON,Blair Szymczyna
+MET,CH,421,IN_PERSON,Dean Tolan
+MET,CH,421,IN_PERSON,Adrian Whitty
+MET,CJ,101,IN_PERSON,Staff
+MET,CJ,251,IN_PERSON,William B. Evans
+MET,CJ,271,IN_PERSON,James Matesanz
+MET,CJ,351,IN_PERSON,Staff
+MET,CJ,510,IN_PERSON,James Matesanz
+MET,CJ,510,IN_PERSON,Danielle Rousseau
+MET,CJ,510,IN_PERSON,Staff
+MET,CJ,570,IN_PERSON,Robert Cadigan
+MET,CJ,570,ONLINE,Danielle Rousseau
+MET,CJ,571,IN_PERSON,Mary Ellen Mastrorilli
+MET,CJ,571,ONLINE,Mary Ellen Mastrorilli
+MET,CJ,590,IN_PERSON,Shea W. Cronin
+MET,CJ,590,ONLINE,Robert Cadigan
+MET,CJ,591,ONLINE,Linda Holt
+MET,CJ,610,IN_PERSON,Kyung-shick Choi
+MET,CJ,610,ONLINE,Kyung-shick Choi
+MET,CJ,612,IN_PERSON,Shea W. Cronin
+MET,CJ,612,ONLINE,Shea W. Cronin
+MET,CJ,632,ONLINE,Jeffrey Carson
+MET,CJ,710,ONLINE,Kyung-shick Choi
+MET,CJ,711,ONLINE,Mary Ellen Mastrorilli
+MET,CJ,720,ONLINE,Danielle Rousseau
+MET,CM,707,IN_PERSON,Michael Dodge
+MET,CM,708,IN_PERSON,Prof. Lewis
+MET,CM,714,IN_PERSON,James Companeschi
+MET,CM,737,IN_PERSON,Micha Sabovik
+MET,CS,101,IN_PERSON,Lawrence Robertie
+MET,CS,101,IN_PERSON,Andrew Sheehan
+MET,CS,200,IN_PERSON,Staff
+MET,CS,200,ONLINE,Cindy Bragg
+MET,CS,201,IN_PERSON,Mikhail Faktorovich
+MET,CS,201,IN_PERSON,John Keklak
+MET,CS,201,IN_PERSON,Staff
+MET,CS,231,IN_PERSON,Michael Hadavi
+MET,CS,232,IN_PERSON,Michael Hadavi
+MET,CS,232,IN_PERSON,Staff
+MET,CS,248,IN_PERSON,Madani Naidjate
+MET,CS,300,ONLINE,Kuang Huang
+MET,CS,341,IN_PERSON,John Maslanka
+MET,CS,342,IN_PERSON,Victor Berry
+MET,CS,382,IN_PERSON,Gerard Keegan
+MET,CS,401,HYBRID,Lawrence Robertie
+MET,CS,401,IN_PERSON,Lawrence Robertie
+MET,CS,401,IN_PERSON,Andrew Sheehan
+MET,CS,422,IN_PERSON,Reza Rawassizadeh
+MET,CS,432,HYBRID,Pamela Campbell
+MET,CS,432,IN_PERSON,Pamela Campbell
+MET,CS,469,IN_PERSON,George Maiewski
+MET,CS,469,IN_PERSON,Ed Matthews
+MET,CS,472,IN_PERSON,David Hendrickson
+MET,CS,473,IN_PERSON,Ronald Czik
+MET,CS,473,IN_PERSON,Yuting Zhang
+MET,CS,506,IN_PERSON,Scott Arena
+MET,CS,506,IN_PERSON,John Day
+MET,CS,506,IN_PERSON,Vijay Kanabar
+MET,CS,506,IN_PERSON,Reza Rawassizadeh
+MET,CS,506,IN_PERSON,Guanglan Zhang
+MET,CS,520,HYBRID,Robert Donald
+MET,CS,520,IN_PERSON,Robert Donald
+MET,CS,520,ONLINE,Joshua Guardino
+MET,CS,521,IN_PERSON,Anatoliy Aleksandrov
+MET,CS,521,IN_PERSON,Alan Burstein
+MET,CS,521,IN_PERSON,Jie Lu
+MET,CS,521,IN_PERSON,Karen Palmer
+MET,CS,521,IN_PERSON,Eugene Pinsky
+MET,CS,521,ONLINE,Marc Lowenthal
+MET,CS,521,ONLINE,Eugene Pinsky
+MET,CS,526,IN_PERSON,Jennifer Lee
+MET,CS,526,ONLINE,Jennifer Lee
+MET,CS,532,IN_PERSON,Staff
+MET,CS,535,IN_PERSON,John Day
+MET,CS,544,IN_PERSON,Farshid Alizadeh-Shabdiz
+MET,CS,544,IN_PERSON,Suresh Kalathur
+MET,CS,544,IN_PERSON,Staff
+MET,CS,544,IN_PERSON,Guanglan Zhang
+MET,CS,544,ONLINE,Suresh Kalathur
+MET,CS,544,ONLINE,Heather Shappell
+MET,CS,546,HYBRID,Andrew Gorlin
+MET,CS,546,IN_PERSON,Andrew Gorlin
+MET,CS,546,ONLINE,Anatoly Temkin
+MET,CS,555,IN_PERSON,Mohammad Alaghemandi
+MET,CS,555,IN_PERSON,Vineet Raghu
+MET,CS,555,IN_PERSON,Staff
+MET,CS,555,IN_PERSON,Guanglan Zhang
+MET,CS,555,ONLINE,Heather Shappell
+MET,CS,555,ONLINE,Kia Teymourian
+MET,CS,566,IN_PERSON,Alexander Belyaev
+MET,CS,566,IN_PERSON,Eric J. Braude
+MET,CS,566,ONLINE,Kia Teymourian
+MET,CS,570,ONLINE,Derin Keskin
+MET,CS,575,IN_PERSON,John Day
+MET,CS,575,IN_PERSON,Mehrdad Nourai
+MET,CS,579,HYBRID,John Russo
+MET,CS,579,IN_PERSON,John Russo
+MET,CS,580,ONLINE,Guanglan Zhang
+MET,CS,581,HYBRID,Mike Levinger
+MET,CS,581,IN_PERSON,Mike Levinger
+MET,CS,601,IN_PERSON,Andrew Sheehan
+MET,CS,601,ONLINE,Vijay Kanabar
+MET,CS,601,ONLINE,Staff
+MET,CS,602,IN_PERSON,Andrew Sheehan
+MET,CS,602,ONLINE,Suresh Kalathur
+MET,CS,622,IN_PERSON,Reza Rawassizadeh
+MET,CS,622,ONLINE,Eric J. Braude
+MET,CS,625,IN_PERSON,Scott Arena
+MET,CS,625,ONLINE,Lou Chitkushev
+MET,CS,625,ONLINE,Maryan Rizinski
+MET,CS,632,IN_PERSON,Pamela Campbell
+MET,CS,632,IN_PERSON,Staff
+MET,CS,632,ONLINE,Prof. Rohmeyer
+MET,CS,633,HYBRID,Alex Elentukh
+MET,CS,633,IN_PERSON,Alex Elentukh
+MET,CS,634,IN_PERSON,Raj Heda
+MET,CS,634,ONLINE,Rachel Alt-Simmons
+MET,CS,662,IN_PERSON,Madani Naidjate
+MET,CS,664,IN_PERSON,Farshid Alizadeh-Shabdiz
+MET,CS,665,IN_PERSON,Michael Tizio
+MET,CS,665,ONLINE,Kia Teymourian
+MET,CS,669,HYBRID,Ed Matthews
+MET,CS,669,IN_PERSON,George Maiewski
+MET,CS,669,IN_PERSON,Ed Matthews
+MET,CS,669,IN_PERSON,John Russo
+MET,CS,669,ONLINE,Warren K. Mansur
+MET,CS,673,IN_PERSON,Ronald Czik
+MET,CS,673,IN_PERSON,Yuting Zhang
+MET,CS,673,ONLINE,Yuting Zhang
+MET,CS,674,HYBRID,Shengzhi Zhang
+MET,CS,674,IN_PERSON,Shengzhi Zhang
+MET,CS,674,ONLINE,Shawn Carroll
+MET,CS,677,IN_PERSON,Suresh Kalathur
+MET,CS,677,IN_PERSON,Eugene Pinsky
+MET,CS,677,ONLINE,Eugene Pinsky
+MET,CS,682,HYBRID,Angelo Guadagno
+MET,CS,682,IN_PERSON,Angelo Guadagno
+MET,CS,682,ONLINE,Eric J. Braude
+MET,CS,682,ONLINE,Jack Polnar
+MET,CS,682,ONLINE,Dawson Williams
+MET,CS,683,IN_PERSON,Yuting Zhang
+MET,CS,683,ONLINE,John Russo
+MET,CS,683,ONLINE,Yuting Zhang
+MET,CS,684,IN_PERSON,Staff
+MET,CS,684,ONLINE,Joseph Burgoyne
+MET,CS,684,ONLINE,Charles Pak
+MET,CS,685,IN_PERSON,Magdy Ellabidy
+MET,CS,688,IN_PERSON,Reza Rawassizadeh
+MET,CS,688,IN_PERSON,Zlatko Vasilkoski
+MET,CS,688,ONLINE,Michael Joner
+MET,CS,689,IN_PERSON,Mary Letourneau
+MET,CS,690,HYBRID,Ed Matthews
+MET,CS,690,IN_PERSON,Ed Matthews
+MET,CS,690,ONLINE,Michael Heister
+MET,CS,693,HYBRID,Scott Arena
+MET,CS,693,ONLINE,Dustin Navarro
+MET,CS,694,ONLINE,Dustin Navarro
+MET,CS,695,HYBRID,Magdy Ellabidy
+MET,CS,695,IN_PERSON,Magdy Ellabidy
+MET,CS,695,ONLINE,Charles Pak
+MET,CS,697,IN_PERSON,Shengzhi Zhang
+MET,CS,699,IN_PERSON,Jennifer Lee
+MET,CS,699,ONLINE,Jennifer Lee
+MET,CS,701,ONLINE,Suresh Kalathur
+MET,CS,703,HYBRID,Staff
+MET,CS,703,IN_PERSON,Staff
+MET,CS,767,IN_PERSON,Staff
+MET,CS,767,ONLINE,Eric J. Braude
+MET,CS,775,IN_PERSON,Staff
+MET,CS,777,IN_PERSON,Kia Teymourian
+MET,CS,777,ONLINE,Kia Teymourian
+MET,CS,779,IN_PERSON,Jack Polnar
+MET,CS,779,ONLINE,Jack Polnar
+MET,CS,781,HYBRID,Jeffrey Loughlin
+MET,CS,781,IN_PERSON,Jeffrey Loughlin
+MET,CS,782,IN_PERSON,Adam Arakelian
+MET,CS,782,ONLINE,Adam Arakelian
+MET,CS,782,ONLINE,Dawson Williams
+MET,CS,789,IN_PERSON,Geoffrey Pascoe
+MET,EC,101,IN_PERSON,Ian Meeker
+MET,EC,102,IN_PERSON,Raphael Constantino
+MET,EC,202,IN_PERSON,Julio Ortiz
+MET,EC,341,IN_PERSON,Raphael Constantino
+MET,EN,104,IN_PERSON,Brandy Barents
+MET,EN,141,IN_PERSON,Thomas Villano
+MET,EN,175,IN_PERSON,Matthew Stokes
+MET,EN,201,IN_PERSON,Beth Bennett
+MET,EN,201,IN_PERSON,Paul Grabianowski
+MET,EN,202,IN_PERSON,Christopher Amenta
+MET,EN,305,IN_PERSON,Neshat Khan
+MET,EN,363,IN_PERSON,Joshua Cohen
+MET,EN,546,IN_PERSON,Cheryl Boots
+MET,HC,750,ONLINE,Prof. Lane
+MET,HC,755,ONLINE,Paul Buta
+MET,HC,757,ONLINE,Nicholas Barber
+MET,HC,758,ONLINE,Timothy Sullivan
+MET,HC,761,ONLINE,Leigh Curtin-Wilding
+MET,HC,762,ONLINE,Alane Bearder
+MET,HC,763,ONLINE,Jamie Rauscher
+MET,HI,101,IN_PERSON,Richard Deese
+MET,HI,286,IN_PERSON,Jennifer Alpert
+MET,HI,312,IN_PERSON,Michael Holm
+MET,HI,373,IN_PERSON,Anthony Sammarco
+MET,HI,395,IN_PERSON,Cathal Nolan
+MET,HS,201,IN_PERSON,Joan Salge-Blake
+MET,IS,327,IN_PERSON,Jennifer Alpert
+MET,IS,350,ONLINE,Regina Hansen
+MET,IS,360,ONLINE,Sheila Cordner
+MET,IS,367,ONLINE,Andre Switala
+MET,IS,370,ONLINE,June Grasso
+MET,IS,380,ONLINE,Christy Franklin
+MET,IS,385,ONLINE,Regina Hansen
+MET,IS,403,HYBRID,Sandra Buerger
+MET,IS,421,ONLINE,Megan Sullivan
+MET,IS,460,ONLINE,Kevin Stoehr
+MET,LX,250,IN_PERSON,Kate Lindsey
+MET,LX,501,IN_PERSON,Kate Lindsey
+MET,LX,521,IN_PERSON,Paul Hagstrom
+MET,MA,113,IN_PERSON,Salma Tazi-Naim
+MET,MA,118,IN_PERSON,Jinhai Chen
+MET,MA,120,IN_PERSON,Boualem Kezim
+MET,MA,123,HYBRID,Jeremy Marcq
+MET,MA,123,IN_PERSON,Jeremy Marcq
+MET,MA,124,IN_PERSON,Jeremy Marcq
+MET,MA,213,IN_PERSON,Ashis Gangopadhyay
+MET,MA,581,IN_PERSON,Daniel Weiner
+MET,MA,603,IN_PERSON,David Govonlu
+MET,MG,202,IN_PERSON,Yotam Mendlinger
+MET,MG,202,IN_PERSON,Mark Passacantando
+MET,MG,315,IN_PERSON,Staff
+MET,MG,410,HYBRID,Barry Unger
+MET,MG,410,IN_PERSON,Staff
+MET,MG,410,IN_PERSON,Barry Unger
+MET,MG,415,IN_PERSON,Gerard Keegan
+MET,MG,431,IN_PERSON,Staff
+MET,MG,435,IN_PERSON,Jamie Grenon
+MET,MG,448,IN_PERSON,Kim Appeltans
+MET,MG,472,IN_PERSON,Mark Passacantando
+MET,MG,473,IN_PERSON,Samuel Mendlinger
+MET,MG,503,IN_PERSON,Kim Appeltans
+MET,MG,515,HYBRID,Joseph Bellefeuille
+MET,MG,515,IN_PERSON,Joseph Bellefeuille
+MET,MG,515,IN_PERSON,Staff
+MET,MG,520,IN_PERSON,Staff
+MET,MG,522,IN_PERSON,Alfred Santino
+MET,MG,530,IN_PERSON,Walter Silvia
+MET,MG,541,IN_PERSON,Staff
+MET,MG,541,IN_PERSON,Barry Unger
+MET,MG,545,IN_PERSON,Sheryl Mendlinger
+MET,MG,550,IN_PERSON,Staff
+MET,ML,610,IN_PERSON,Megan Elias
+MET,ML,610,IN_PERSON,Connor Fitzmaurice
+MET,ML,611,IN_PERSON,Karen Metheny
+MET,ML,622,ONLINE,Megan Elias
+MET,ML,623,IN_PERSON,Karen Metheny
+MET,ML,625,IN_PERSON,Netta Davis
+MET,ML,630,IN_PERSON,Karen Metheny
+MET,ML,641,ONLINE,Karen Metheny
+MET,ML,651,IN_PERSON,William Nesto
+MET,ML,652,IN_PERSON,William Nesto
+MET,ML,653,IN_PERSON,William Nesto
+MET,ML,654,IN_PERSON,William Nesto
+MET,ML,655,IN_PERSON,William Ward
+MET,ML,671,IN_PERSON,Potter Palmer
+MET,ML,681,IN_PERSON,Brian Julian
+MET,ML,692,HYBRID,Neil Coletta
+MET,ML,699,IN_PERSON,Janine Sciarappa
+MET,ML,700,IN_PERSON,Lisa Falso-Doherty
+MET,ML,701,IN_PERSON,Karen Metheny
+MET,ML,702,IN_PERSON,Michael Leviton
+MET,ML,714,IN_PERSON,Zachary Nowak
+MET,ML,715,IN_PERSON,Valerie Ryan
+MET,ML,721,IN_PERSON,Ellen Messer
+MET,PH,101,IN_PERSON,Staff
+MET,PH,150,IN_PERSON,Staff
+MET,PH,248,IN_PERSON,Staff
+MET,PS,241,IN_PERSON,David Gotthelf
+MET,PS,295,IN_PERSON,Anne Weaver
+MET,PS,510,IN_PERSON,Danielle Rousseau
+MET,PY,105,IN_PERSON,Pritiraj Mohanty
+MET,PY,211,IN_PERSON,Enrique Jariwala
+MET,PY,212,IN_PERSON,Wanzheng Hu
+MET,SO,100,IN_PERSON,Robert Cadigan
+MET,SO,501,IN_PERSON,James Pasto
+MET,UA,503,IN_PERSON,Haegi Kwon
+MET,UA,510,IN_PERSON,Douglas Johnson
+MET,UA,510,IN_PERSON,Yesim Sungu-Eryilmaz
+MET,UA,510,IN_PERSON,David Valecillos Gonzalez
+MET,UA,510,IN_PERSON,Felix Zemel
+MET,UA,515,IN_PERSON,Madhu C. Dutta-Koehler
+MET,UA,527,IN_PERSON,Walter Carroll
+MET,UA,610,IN_PERSON,Kwabena Kyei-Aboagye
+MET,UA,617,IN_PERSON,Madhu C. Dutta-Koehler
+MET,UA,619,IN_PERSON,Joshua Hassol
+MET,UA,654,ONLINE,Yesim Sungu-Eryilmaz
+MET,UA,664,IN_PERSON,Jonathan Greeley
+MET,UA,703,IN_PERSON,Yesim Sungu-Eryilmaz
+MET,UA,704,IN_PERSON,Matthew Resseger

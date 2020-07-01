@@ -1,0 +1,174 @@
+/* Styles for course catalog page */
+
+/* search box */
+.ant-space.search-box {
+    display: flex;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin: auto;
+    max-width: 1340px;
+}
+.ant-space.search-box .ant-space-item {
+    display: contents;
+    margin: auto;
+    width: 1340px;
+    max-width: 1340px;
+}
+.ant-input-search .ant-input {
+    font-size: 1.25rem;
+}
+
+/* sort grid */
+.ant-space.sort-grid {
+    display: flex;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    margin-bottom: -1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1340px;
+}
+.ant-space.sort-grid .ant-space-item {
+    display: contents;
+    max-width: 1340px;
+}
+
+/* "reset sort" link font-color */
+.ant-space.sort-grid .reset-sort-option {
+    color: slategray
+}
+
+
+/* divider between search/sort and course list */
+.course-sort-and-search-divider {
+    display: flex;
+    margin-bottom: -1em;
+    max-width: 1294px;
+}
+
+/* course item */
+.ant-list-items .ant-list-item {
+    max-width: 1340px;
+    margin: auto;
+    padding: 1.5rem;
+}
+
+/* course title */
+h4.ant-list-item-meta-title > a {
+    font-size: 1.3rem;
+    color: #4287f5;
+}
+
+/* course description */
+.ant-list-item-meta-description {
+    font-size: 1.1rem;
+    color: rgba(0, 0, 0, 0.65);
+}
+
+/* course rating */
+.ant-list-item-extra {
+    font-size: 1.3rem;
+}
+
+/* course instructors */
+.course-item-content {
+    margin-top: -.1rem;
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.45);
+}
+
+/* pagination */
+ul.ant-pagination {
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 5em;
+}
+
+
+/* COURSE DETAILS PAGE */
+
+/* course heading section */
+.ant-row.ant-row-space-between.course-header-row {
+    margin-top: 3rem;
+}
+
+.ant-col.course-header-col-1 {
+    margin-top: -3rem;
+}
+
+.ant-col.course-header-col-2 {
+    margin: auto;
+    margin-top: -3rem;
+}
+
+#app-body h1.ant-typography.course-title {
+    margin-bottom: 8px;
+}
+
+#app-body .ant-typography.course-subtitle {
+    margin-top: .6em;
+    margin-bottom: 1em;
+    font-size: 2em;
+}
+
+/* course overview card */
+.course-overview {
+    width: 100%;
+    border: 1.5px solid #b7c2d6;
+}
+
+.course-overview .ant-card-head {
+    border-bottom: none;
+    margin-bottom: -2em;
+}
+
+.course-text {
+    font-size: 1.25em;
+}
+
+.course-instructors {
+    margin-top: 1em;
+    margin-bottom: 5px;
+}
+
+.course-credits {
+    margin-bottom: -.3em;
+}
+
+/* course favorite */
+.course-fave {
+    text-align: right;
+}
+
+span.anticon.fave-course-icon {
+    font-size: 2.6em;
+    color: #f84242;
+    margin-top: 1.2em;
+    cursor: pointer;
+}
+
+.fave-course-text {
+    font-size: 1.3em;
+    position: relative;
+    bottom: .1em;
+    font-style: italic;
+    right: .6em;
+}
+
+/* course average rating */
+span.anticon.anticon-star.course-avg-icon {
+    font-size: 1.5em;
+    color: #f6e62a;
+    position: relative;
+    top: .05em;
+}
+
+h3.ant-typography.course-avg {
+    text-align: right;
+    font-size: 1.8em;
+    margin-top: .6em;
+}
+
+span.course-avg-text {
+    margin-right: .3em;
+}

@@ -1,0 +1,42 @@
+
+/* menu list */
+ul.ant-menu.ant-menu-light.ant-menu-root.ant-menu-inline {
+    height: 100%;
+    background: #f0f8ff;
+}
+
+/* menu list first child */
+ul.ant-menu.ant-menu-light.ant-menu-root.ant-menu-inline:first-child {
+    padding-top: 3em;
+}
+
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color: #d5dbe9;
+}
+
+/* menu list item link */
+li.ant-menu-item.ant-menu-item-only-child > a {
+    margin-left: 1em;
+}
+
+/* left nav */
+.ant-col.nav-column {
+    width: 15rem;
+    position: fixed;
+    height: 100vh;
+    z-index: 100;
+}
+
+/* nav title */
+li.ant-menu-submenu.ant-menu-submenu-inline.ant-menu-submenu-open {
+    font-size: 1.2em;
+}
+
+.nav-column svg {
+    font-size: 1.3em;
+}
+
+/* nav menu links */
+li.ant-menu-item.ant-menu-item-only-child {
+    font-size: 1.2em;
+}

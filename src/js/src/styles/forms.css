@@ -1,0 +1,60 @@
+/* form buttons */
+.form-btn-group {
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* Select input */
+.ant-select-selector {
+    margin-bottom: 2em;
+}
+
+.ant-select.ant-select-single.ant-select-show-arrow {
+    width: 15em;
+    display: block;
+    margin: 1em 0 1.3em 0;
+}
+
+/* Select options */
+span.ant-select-selection-item,
+.ant-select-item.ant-select-item-option {
+    font-size: 1.2em;
+}
+
+/* ADD REVIEW FORM STYLES */
+
+/* all input controls */
+#review-form .input-control {
+    margin-bottom: 1.3em;
+    display: block;
+}
+
+/* labels */
+#review-form .input-label {
+    font-size: 1.3em;
+}
+
+/* input text controls */
+#review-form .input-control.input-text {
+    font-size: 1.25em;
+}
+
+/* input tags */
+#review-form span.ant-tag.input-tag {
+    background-color: #ff5500;
+    color: #ffffff;
+    border: none;
+    font-size: 1.1em;
+    position: relative;
+    bottom: -2px;
+}
+
+/* rating stars */
+#review-form li.ant-rate-star {
+    font-size: 1.6em;
+}
+
+/* buttons */
+#review-form .form-btn {
+    margin-left: 1em;
+}

@@ -1,0 +1,36 @@
+{
+    "name": "js",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@ant-design/dark-theme": "^2.0.2",
+        "@ant-design/icons": "^4.1.0",
+        "antd": "^4.2.4",
+        "auth0-js": "^9.13.2",
+        "debug": "^4.1.1",
+        "formik": "^1.5.8",
+        "jquery": "^3.5.1",
+        "js-cookie": "^2.2.1",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "2.1.8",
+        "unfetch": "^4.1.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "proxy": "http://localhost:8080/",
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
+}
